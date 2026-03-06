@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+
+    
+    .hero{
+        background-image: url("./assets/model.png");
+        background-repeat: no-repeat;
+        background-size: contain;
+        background-position: right;
+    }
